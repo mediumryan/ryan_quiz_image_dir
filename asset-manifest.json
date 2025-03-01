@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ryan_quiz_image_dir/static/css/main.e6c13ad2.css",
+    "main.js": "/ryan_quiz_image_dir/static/js/main.31583a24.js",
+    "index.html": "/ryan_quiz_image_dir/index.html",
+    "main.e6c13ad2.css.map": "/ryan_quiz_image_dir/static/css/main.e6c13ad2.css.map",
+    "main.31583a24.js.map": "/ryan_quiz_image_dir/static/js/main.31583a24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.31583a24.js"
+  ]
+}
